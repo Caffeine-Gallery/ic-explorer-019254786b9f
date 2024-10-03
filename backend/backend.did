@@ -1,0 +1,4 @@
+service : {
+  getDescription: () -> (text) query;
+  getFeatures: () -> (vec text) query;
+}
